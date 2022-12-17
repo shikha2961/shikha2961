@@ -1,14 +1,12 @@
 ### Hello Everyone, I'm Shikha 👋
 
 #### About Me:
-I am a passionate web developer and building my Machine Learning skills this summer.  
+I am a passionate web developer and currently exploring AI/ML.
 
 🎓 Currently I am pursuing my Bachelors in Computer Science Engineering from Indira Gandhi Delhi Technical Univeristy for Women.  
 
-#### 🔭 I’m currently working as  
- Web Developer at IEEE IGDTUW.  
- 
 #### 💻 I previously worked as  
+* Web Developer at IEEE IGDTUW.
 * Mentor at uAceit for a web development project called Giphy Search Engine.
 * Campus Ambassador at GeeksforGeeks.
 * Mentor at Education Mentoring Program started by Delhi's Government.
